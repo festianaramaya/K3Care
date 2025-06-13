@@ -1,0 +1,8 @@
+This file is a placeholder. You'll need to add the following images to the assets/images/ directory:
+- profile_pic.png (user profile picture)
+- worker.png (worker icon for dashboard)
+- warning1.png (warning triangle icon)
+- warning2.png (warning diamond icon)
+- report_icon.png (report icon for pelaporan screen)
+- indonesia_flag.png (Indonesian flag for phone input)
+

@@ -1,0 +1,34 @@
+name: k3care
+description: Aplikasi K3Care untuk Keselamatan Kesehatan Kerja
+publish_to: 'none'
+version: 1.0.3+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.0
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/logo_k3.jpg
+    - assets/images/k3.jpg
+    - assets/images/user.jpg
+    - assets/images/warning.jpg
+    - "assets/images/worker.png"
+    - "assets/images/warning1.png"
+    - "assets/images/warning2.png"
+    - assets/images/profile_pic.png
+
